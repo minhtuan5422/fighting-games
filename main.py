@@ -1,6 +1,6 @@
 import pygame
 from fighter import Fighter
-''' 20'60 '''
+
 pygame.init()
 
 # Create game window
@@ -36,7 +36,7 @@ while run:
     draw_bg()
     
     # Move fighters
-    fighter_1.move()
+    fighter_1.move(SCREEN_WIDTH, SCREEN_HEIGHT)
     ''' fighter_2.move() '''
     
     # Draw fighters
