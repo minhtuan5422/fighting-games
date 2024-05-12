@@ -19,7 +19,8 @@ pip install pygame
 7. Khởi chạy
 Mở folder fighting-games trong vscode
 run main.py
-Cách chơi
+
+# Cách chơi
 + Player 1: Phím A (lùi), phím D (tiến), phím W (nhảy), J hoặc K để
 tấn công.
 + Player 2: Hướng điều khiển di chuyển tương ứng với các phím mũi tên
@@ -47,7 +48,7 @@ pip install pygame
 7. Launch
 Open the fighting-games folder in vscode
 run main.py
-How to play
+# How to play
 + Player 1: Key A (back), key D (forward), key W (jump), J or K to
 attack.
 + Player 2: Movement control direction corresponds to the arrow keys
