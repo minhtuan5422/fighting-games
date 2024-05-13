@@ -3,9 +3,9 @@
 Game đối kháng (fighting game) là một thể loại game mô phỏng các trận đấu đối kháng giữa hai hoặc nhiều nhân vật, trong đó người chơi điều khiển nhân vật để tiêu diệt đối thủ hoặc gây sát thương cho đối phương. Đây là thể thoại game đa dạng những kỹ năng, chiêu thức, kết hợp đòn tấn công giúp người chơi có thể chiến đấu tối ưu và giành chiến thắng trong các trận đấu.
 # Cài đặt 
 1. Cài đặt Python.
-sudo apt-get install python3
+sudo apt install python3
 2. Cài đặt pip
-sudo apt-get install python3-pip
+sudo apt install python3-pip
 3. Tải source code game 
 https://github.com/minhtuan5422/fighting-games.git
 4. Giải nén
@@ -32,9 +32,9 @@ This project is programmed in Python, the library used is pygame.
 Fighting game is a game genre that simulates fighting matches between two or more characters, in which the player controls the character to destroy the opponent or cause damage to the opponent. This is a game with a variety of skills, moves, and attack combinations to help players fight optimally and win matches.
 # Setting
 1. Install Python.
-sudo apt-get install python3
+sudo apt install python3
 2. Install pip
-sudo apt-get install python3-pip
+sudo apt install python3-pip
 3. Download the game source code
 https://github.com/minhtuan5422/fighting-games.git
 4. Unzip
