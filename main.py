@@ -58,7 +58,7 @@ wizard_sheet = pygame.image.load(
     "assets/images/wizard/Sprites/wizard.png"
 ).convert_alpha()
 
-# load vicory image
+# load victory image
 victory_img = pygame.image.load("assets/images/icons/victory.png").convert_alpha()
 
 # define number of steps in each animation
